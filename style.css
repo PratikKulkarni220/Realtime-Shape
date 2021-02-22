@@ -1,0 +1,25 @@
+body{
+    border-radius: 6px;
+    border-width: 10px;
+    border-color: goldenrod;
+    border-style: double;
+}
+
+.head_div{
+    width: 100%;
+    color: white;
+    font-size: 30px;
+}
+
+.sub_div{
+    width:99%;
+    color: white;
+    font-size: 22px;
+}
+
+.footer{
+    width:100%;
+    bottom: 0px;
+    margin-top: 790px;
+    font-size: 20px;
+}
